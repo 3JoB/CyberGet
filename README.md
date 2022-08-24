@@ -4,8 +4,13 @@
 
  
  
-A multi-platform novel download tool.
-
+<p align="center">A multi-platform novel download tool.</p>
+<p align="center"><a href="https://github.com/3JoB/CyberGet/releases">Download</a> \\\ <a href="https://github.com/3JoB/CyberGet/wiki">Wiki</a> \\\ <a href="https://github.com/3JoB/CyberGet/issues">Issues</a> \\\ <a href="https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD">Sponsor</a></p>
+ 
+ 
+ 
+ 
+ 
 This is not open source software because it can be misused
 
 Supported Platforms
