@@ -1,4 +1,4 @@
-# CyberGet
+![CyberGet](cyberget.png)
 
 [Download](https://github.com/3JoB/CyberGet/releases/tag/0.96-stable) \\\ [Wiki](https://github.com/3JoB/CyberGet/wiki) \\\ [Issues](https://github.com/3JoB/CyberGet/issues) \\\ [Sponsor](https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD)
 
