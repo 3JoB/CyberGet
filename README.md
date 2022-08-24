@@ -1,6 +1,6 @@
 # CyberGet
 
-[Download](https://github.com/3JoB/CyberGet/releases/tag/0.96-stable) \\ [Wiki](https://github.com/3JoB/CyberGet/wiki) \\ [Issues](https://github.com/3JoB/CyberGet/issues)
+[Download](https://github.com/3JoB/CyberGet/releases/tag/0.96-stable) \\\ [Wiki](https://github.com/3JoB/CyberGet/wiki) \\\ [Issues](https://github.com/3JoB/CyberGet/issues)
 
 A multi-platform novel download tool.
 
