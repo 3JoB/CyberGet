@@ -1,8 +1,5 @@
 ![CyberGet](cyberget.png)
 
-<a align="center">[Download](https://github.com/3JoB/CyberGet/releases/tag/0.96-stable) \\\ [Wiki](https://github.com/3JoB/CyberGet/wiki) \\\ [Issues](https://github.com/3JoB/CyberGet/issues) \\\ [Sponsor](https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD)</a>
-
- 
  
 <p align="center">A multi-platform novel download tool.</p>
 <p align="center"><a href="https://github.com/3JoB/CyberGet/releases">Download</a> \\\ <a href="https://github.com/3JoB/CyberGet/wiki">Wiki</a> \\\ <a href="https://github.com/3JoB/CyberGet/issues">Issues</a> \\\ <a href="https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD">Sponsor</a></p>
