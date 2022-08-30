@@ -8,7 +8,7 @@
  
  
  
-This is not open source software because it can be misused
+This is not open source software because it can be misused. This software will not report any of your private information to the server, [click to view sandbox analysis information](https://s.threatbook.com/report/file/30c48bf6c594101105047ff1598ca6ff5c783e3be7cfce7a7d39d05acfa90511)
 
 Supported Platforms
 * [SFACG](https://book.sfacg.com)
