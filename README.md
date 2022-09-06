@@ -17,3 +17,5 @@ Supported Platforms
 * [Huanxiangji](http://www.huanxiangji.com)
 
 Other platforms are being adapted...
+
+The Plus version is under development and will support GUI and more exclusive features
