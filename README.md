@@ -25,4 +25,4 @@ The Plus version is under development and will support GUI and more exclusive fe
 ## Plus Example
 There is only a simple framework for the time being, and some APIs need to be rewritten
 
-![CyberGetPlus Example](plus-example.png)
+![CyberGetPlus Example](plus-example.PNG)
