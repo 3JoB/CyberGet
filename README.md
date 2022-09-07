@@ -19,3 +19,10 @@ Supported Platforms
 Other platforms are being adapted...
 
 The Plus version is under development and will support GUI and more exclusive features
+ 
+----
+ 
+## Plus Example
+There is only a simple framework for the time being, and some APIs need to be rewritten
+
+![CyberGetPlus Example](cyberget-plus.png)
