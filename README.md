@@ -22,10 +22,5 @@ The Plus version is under development and will support GUI and more exclusive fe
  
 ----
  
-## Plus Example
-There is only a simple framework for the time being.
-
-
-The core part needs to be completely rewritten due to design flaws. This will take more time.
-
-![CyberGetPlus Example](plus-example.PNG)
+## CyberGet 2
+We will consider rewriting the current UI code, which will extend the development time of CyberGet2 again
