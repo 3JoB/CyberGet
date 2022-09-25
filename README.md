@@ -22,5 +22,5 @@ The Plus version is under development and will support GUI and more exclusive fe
  
 ----
  
-## CyberGet 2
-We will consider rewriting the current UI code, which will extend the development time of CyberGet2 again
+## CyberGet Edge (CyberGet 3)
+We will consider rewriting the current UI code, which will extend the development time of CyberGet3 again
