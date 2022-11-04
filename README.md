@@ -6,6 +6,9 @@
 <p align="center"><a href="https://github.com/3JoB/CyberGet/releases">Download</a> \\\ <a href="https://github.com/3JoB/CyberGet/wiki">Wiki</a> \\\ <a href="https://github.com/3JoB/CyberGet/issues">Issues</a> \\\ <a href="https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD">Sponsor</a></p>
  
  
+We're creating a libsdk, CyberGet1 will plug it in when it's done.
+
+The new libsdk is specially designed for Ednr (CyberGet3), it will support full ciweimao API, sfacg app api, sfacg miniapp api, etc.
  
  
  
