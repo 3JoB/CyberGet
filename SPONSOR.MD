@@ -1,6 +1,3 @@
-Dun: https://dun.mianbaoduo.com/@p7
-
-
 Ko-fi: https://ko-fi.com/morningrange
 
 
