@@ -2,7 +2,7 @@
 
  
 <p align="center">A multi-platform novel download tool.</p>
-<p align="center"><strong>A brand new CyberGet is in development, this project has been abandoned, <a href="https://github.com/Malonan/Ednr">repo</a>.</strong></p>
+<p align="center"><strong>Due to personal reasons, I will no longer maintain these software, completed or in-progress projects are now obsolete.</strong></p>
 <p align="center"><a href="https://github.com/3JoB/CyberGet/releases">Download</a> \\\ <a href="https://github.com/3JoB/CyberGet/wiki">Wiki</a> \\\ <a href="https://github.com/3JoB/CyberGet/issues">Issues</a> \\\ <a href="https://github.com/3JoB/CyberGet/blob/main/SPONSOR.MD">Sponsor</a></p>
  
  
