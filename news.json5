@@ -1,0 +1,26 @@
+{
+    "config": {
+        "lang" : "en-US",
+        "ver": 1,
+    },
+    "news" : [
+        {
+            "title": "A0P0R4 preview update",
+            "image": "<def>",
+            "release": "2023/7/18 9:39",
+            "data": "A0P0R4 preview update is coming soon. 
+
+Although there are still no available functions at the moment, we will continue to optimize the front-end style.
+
+Here is what's included in this update:
+
+1. 'News' entered the test list
+
+2. 'Community+' has been removed 
+
+3. A lot of cloud interaction functions have been removed
+
+We are resuming all the work, and expect the first preview version with available functions to be launched in October. Note that everything is free."
+        },
+    ],
+}
